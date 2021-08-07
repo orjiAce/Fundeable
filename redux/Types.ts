@@ -1,0 +1,4 @@
+export const SET_ROUTE = "SET_ROUTE"
+export const HIDE_BOTTOM_TAB = "HIDE_BOTTOM_TAB"
+export const SET_SELECTED_TAB = "SET_SELECTED_TAB"
+export const SWITCH_THEME = "SWITCH_THEME"
